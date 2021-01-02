@@ -7,4 +7,6 @@
     "body": "string",
     "post": "Post"
   }
+  ,
+  "products":{    "title":"string"}
 }
