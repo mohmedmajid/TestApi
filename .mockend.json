@@ -6,7 +6,8 @@
   "Comment": {
     "body": "string",
     "post": "Post"
+  },
+  "products" :
+  {"title":"string"
   }
-  ,
-  "products":{    "title":"string"}
 }
